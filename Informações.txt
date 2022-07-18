@@ -1,2 +1,3 @@
 Meu primeiro projeto desafio
 Meu primeiro commit via cli do Git
+Sincronização entre os repositório remoto e local
